@@ -18,4 +18,4 @@ sublime-folder ./Projects
 
 **-c --config**: Point to a default sublime project file to use.
 
-**<folder>**: A folder that contains projects.
+**folder...**: A folder that contains projects.
