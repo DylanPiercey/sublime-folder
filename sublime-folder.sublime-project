@@ -1,0 +1,10 @@
+{
+	"folders":
+	[
+		{
+			"folder_exclude_patterns": [".git", "node_modules"],
+			"file_exclude_patterns": [".npmignore", ".gitignore", ".gitattributes"],
+			"path": "."
+		}
+	]
+}

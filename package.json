@@ -1,0 +1,14 @@
+{
+  "name": "sublime-folder",
+  "version": "0.1.0",
+  "description": "Automatically set up sublime projects for all projects in a folder.",
+  "author": "Dylan Piercey <pierceydylan@gmail.com>",
+  "bin": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/DylanPiercey/sublime-folder"
+  },
+  "dependencies": {
+    "commander": "^2.9.0"
+  }
+}
