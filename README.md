@@ -16,5 +16,6 @@ sublime-folder ./Projects
 
 # API
 
-*-c --config*: Point to a default sublime project file to use.
-*<folder>*: A folder that contains projects.
+**-c --config**: Point to a default sublime project file to use.
+
+**<folder>**: A folder that contains projects.
